@@ -1,3 +1,15 @@
+# v1.0.9 (Fri Apr 30 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update storybook and fix doc addons conflict (renatomoor1@gmail.com)
+
+#### Authors: 1
+
+- Renato Moor (renatomoor1@gmail.com)
+
+---
+
 # v1.0.8 (Fri Apr 30 2021)
 
 #### ⚠️ Pushed to `main`
