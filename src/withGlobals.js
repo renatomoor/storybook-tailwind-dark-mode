@@ -14,7 +14,7 @@ export const withGlobals = (StoryFn, context) => {
   return StoryFn();
 };
 
-function changeBackgroundMode(selector, state) {
+const changeBackgroundMode = (selector, state) => {
   const rootElement = document.getElementById(selector);
   if (state.darkMode) {
     rootElement.classList.add('dark');
