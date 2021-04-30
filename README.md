@@ -1,5 +1,7 @@
 # storybook-tailwind-dark-mode
 
+![Example](./example.gif)
+
 ## Installation
 
 Install the following npm module:
