@@ -1,3 +1,15 @@
+# v1.0.7 (Fri Apr 30 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Add gif example ([@renatomoor](https://github.com/renatomoor))
+
+#### Authors: 1
+
+- Renato Moor ([@renatomoor](https://github.com/renatomoor))
+
+---
+
 # v1.0.6 (Fri Apr 30 2021)
 
 
