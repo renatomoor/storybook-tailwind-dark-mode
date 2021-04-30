@@ -15,7 +15,10 @@
     "type": "git",
     "url": "https://github.com/renatomoor/storybook-tailwind-dark-mode"
   },
-  "author": "RenatoMoor",
+  "author": {
+    "name": "Renato Moor",
+    "email": "renatomoor1@gmail.com"
+  },
   "license": "MIT",
   "main": "dist/preset",
   "files": [
