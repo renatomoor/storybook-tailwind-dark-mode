@@ -1,6 +1,6 @@
 {
   "name": "storybook-tailwind-dark-mode",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An storybook tailwind darkMode addon",
   "keywords": [
     "storybook-addons",
