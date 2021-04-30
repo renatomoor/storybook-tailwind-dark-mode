@@ -1,4 +1,4 @@
-# v1.0.4 (Fri Apr 30 2021)
+# v1.0.5 (Fri Apr 30 2021)
 
 #### ⚠️ Pushed to `main`
 
@@ -13,5 +13,4 @@
 - Renato Moor ([@renatomoor](https://github.com/renatomoor))
 
 ---
-
 
