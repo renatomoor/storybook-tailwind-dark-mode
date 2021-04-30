@@ -6,7 +6,7 @@ export const withGlobals = (StoryFn, context) => {
   const isInDocs = context.viewMode === "docs";
 
   useEffect(() => {
-    const selectorId = isInDocs ? `#anchor--${context.id} .docs-story` : `root`;
+    const selectorId = isInDocs ? `docs-root` : `root`;
 
     changeBackgroundMode(selectorId, { darkMode, isInDocs });
   }, [darkMode]);
