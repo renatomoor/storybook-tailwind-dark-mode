@@ -1,3 +1,16 @@
+# v1.0.8 (Fri Apr 30 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Lint to arrow function (renatomoor1@gmail.com)
+- Change package description (renatomoor1@gmail.com)
+
+#### Authors: 1
+
+- Renato Moor (renatomoor1@gmail.com)
+
+---
+
 # v1.0.7 (Fri Apr 30 2021)
 
 #### ⚠️ Pushed to `main`
