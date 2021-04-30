@@ -1,17 +1,21 @@
 {
-  "name": "storybook-addon-kit",
+  "name": "storybook-tailwind-dark-mode",
   "version": "0.0.0",
-  "description": "everything you need to build a Storybook addon",
+  "description": "An storybook tailwind darkMode addon",
   "keywords": [
     "storybook-addons",
     "style",
-    "test"
+    "tailwind",
+    "darkMode",
+    "css",
+    "appearance",
+    "layout"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/storybookjs/storybook-addon-kit"
+    "url": "https://github.com/renatomoor/storybook-tailwind-dark-mode"
   },
-  "author": "winkerVSbecks",
+  "author": "RenatoMoor",
   "license": "MIT",
   "main": "dist/preset",
   "files": [
