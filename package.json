@@ -1,7 +1,7 @@
 {
   "name": "storybook-tailwind-dark-mode",
   "version": "1.0.7",
-  "description": "An storybook tailwind darkMode addon",
+  "description": "Toggle stories between light and dark mode using tailwind",
   "keywords": [
     "storybook-addons",
     "style",
@@ -71,7 +71,7 @@
     "access": "public"
   },
   "storybook": {
-    "displayName": "Tailwind darkMode",
+    "displayName": "Tailwind dark mode",
     "supportedFrameworks": [
       "react",
       "vue",
