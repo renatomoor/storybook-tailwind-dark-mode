@@ -15,10 +15,11 @@ export const withGlobals = (StoryFn, context) => {
 };
 
 const changeBackgroundMode = (selector, state) => {
+  const [{ prefix }] = useGlobals();
   const rootElement = document.getElementById(selector);
   if (state.darkMode) {
-    rootElement.classList.add('m-dark');
+    rootElement.classList.add(`${prefix}dark`);
   } else {
-    rootElement.classList.remove('m-dark')
+    rootElement.classList.remove(`${prefix}dark`)
   }
 }
