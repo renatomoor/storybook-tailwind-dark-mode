@@ -23,3 +23,13 @@ module.exports = {
   addons: ['storybook-tailwind-dark-mode']
 };
 ```
+
+### Set Darm Mode as default
+
+To set dark mode as default, Add the following lines of code to your preview.js file
+
+```
+export const globalTypes = {
+  darkMode: true,
+};
+```
