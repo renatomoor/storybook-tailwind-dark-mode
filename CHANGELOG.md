@@ -1,3 +1,15 @@
+# v1.0.11 (Mon Aug 16 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@renatomoor](https://github.com/renatomoor))
+
+#### Authors: 1
+
+- Renato Moor ([@renatomoor](https://github.com/renatomoor))
+
+---
+
 # v1.0.10 (Mon Aug 16 2021)
 
 #### 🐛 Bug Fix
