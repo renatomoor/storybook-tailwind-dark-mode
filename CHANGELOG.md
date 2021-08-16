@@ -1,3 +1,17 @@
+# v1.0.10 (Mon Aug 16 2021)
+
+#### 🐛 Bug Fix
+
+- Readme Update [#4](https://github.com/renatomoor/storybook-tailwind-dark-mode/pull/4) ([@jayaramkasi](https://github.com/jayaramkasi))
+- Adds the `prefix` from the Tailwind config to the `dark` class [#1](https://github.com/renatomoor/storybook-tailwind-dark-mode/pull/1) ([@awfy](https://github.com/awfy))
+
+#### Authors: 2
+
+- Greg Cooper ([@awfy](https://github.com/awfy))
+- Jayaram K ([@jayaramkasi](https://github.com/jayaramkasi))
+
+---
+
 # v1.0.9 (Fri Apr 30 2021)
 
 #### ⚠️ Pushed to `main`
