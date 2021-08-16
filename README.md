@@ -24,7 +24,7 @@ module.exports = {
 };
 ```
 
-### Set Darm Mode as default
+### Set Dark Mode as default
 
 To set dark mode as default, Add the following lines of code to your preview.js file
 
