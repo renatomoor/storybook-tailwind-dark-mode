@@ -1,3 +1,15 @@
+# v1.0.12 (Mon Apr 25 2022)
+
+#### 🐛 Bug Fix
+
+- Change target element to body [#7](https://github.com/renatomoor/storybook-tailwind-dark-mode/pull/7) ([@carloschneider](https://github.com/carloschneider))
+
+#### Authors: 1
+
+- Carlo Schneider ([@carloschneider](https://github.com/carloschneider))
+
+---
+
 # v1.0.11 (Mon Aug 16 2021)
 
 #### ⚠️ Pushed to `main`
