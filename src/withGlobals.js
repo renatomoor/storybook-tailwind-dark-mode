@@ -6,16 +6,16 @@ export const withGlobals = (StoryFn, context) => {
   const isInDocs = context.viewMode === "docs";
 
   useEffect(() => {
-    const selectorId = isInDocs ? `docs-root` : `root`;
+    const selector = isInDocs ? '#docs-root' : 'body';
 
-    changeBackgroundMode(selectorId, { darkMode, isInDocs });
+    changeBackgroundMode(selector, { darkMode, isInDocs });
   }, [darkMode]);
 
   return StoryFn();
 };
 
 const changeBackgroundMode = (selector, state) => {
-  const rootElement = document.getElementById(selector);
+  const rootElement = document.querySelector(selector);
   if (state.darkMode) {
     rootElement.classList.add('dark');
   } else {
