@@ -1,3 +1,15 @@
+# v1.0.13 (Mon Aug 22 2022)
+
+#### ⚠️ Pushed to `main`
+
+- chore: add react 18 support (renato@spotwerbung.ch)
+
+#### Authors: 1
+
+- Renato Moor (renato@spotwerbung.ch)
+
+---
+
 # v1.0.12 (Mon Apr 25 2022)
 
 #### 🐛 Bug Fix
