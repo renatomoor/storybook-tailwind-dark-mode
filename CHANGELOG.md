@@ -1,3 +1,15 @@
+# v1.0.15 (Wed Aug 31 2022)
+
+#### ⚠️ Pushed to `main`
+
+- chore: add icon for storybook addons page ([@renatomoor](https://github.com/renatomoor))
+
+#### Authors: 1
+
+- Renato Moor ([@renatomoor](https://github.com/renatomoor))
+
+---
+
 # v1.0.14 (Wed Aug 31 2022)
 
 #### ⚠️ Pushed to `main`
