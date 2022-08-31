@@ -1,3 +1,15 @@
+# v1.0.14 (Wed Aug 31 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix: use html instead of body as class selector ([@renatomoor](https://github.com/renatomoor))
+
+#### Authors: 1
+
+- Renato Moor ([@renatomoor](https://github.com/renatomoor))
+
+---
+
 # v1.0.13 (Mon Aug 22 2022)
 
 #### ⚠️ Pushed to `main`
