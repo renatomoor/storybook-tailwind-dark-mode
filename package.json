@@ -1,6 +1,6 @@
 {
   "name": "storybook-tailwind-dark-mode",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Toggle stories between light and dark mode using tailwind",
   "keywords": [
     "storybook-addons",
