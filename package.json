@@ -57,7 +57,7 @@
     "@storybook/components": "^6.2.9",
     "@storybook/core-events": "^6.2.9",
     "@storybook/theming": "^6.2.9",
-    "react": "^16.8.0 || ^17.0.0",
+    "react": "^16.8.0 || ^17.0.0" || "^18.0.0",
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "peerDependenciesMeta": {
