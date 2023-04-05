@@ -1,3 +1,20 @@
+# v1.0.15 (Wed Apr 05 2023)
+
+#### 🐛 Bug Fix
+
+- chore: add react 18 support [#11](https://github.com/renatomoor/storybook-tailwind-dark-mode/pull/11) ([@DeadIine](https://github.com/DeadIine))
+
+#### ⚠️ Pushed to `main`
+
+- chore: add icon for storybook addons page ([@renatomoor](https://github.com/renatomoor))
+
+#### Authors: 2
+
+- Daniel Lehmann ([@DeadIine](https://github.com/DeadIine))
+- Renato Moor ([@renatomoor](https://github.com/renatomoor))
+
+---
+
 # v1.0.15 (Wed Aug 31 2022)
 
 #### ⚠️ Pushed to `main`
