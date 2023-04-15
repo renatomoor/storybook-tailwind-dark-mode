@@ -1,3 +1,15 @@
+# v1.0.20 (Sat Apr 15 2023)
+
+#### 🐛 Bug Fix
+
+- Add Tailwind functionality to change dark mode class name [#18](https://github.com/renatomoor/storybook-tailwind-dark-mode/pull/18) ([@freddyamarante](https://github.com/freddyamarante))
+
+#### Authors: 1
+
+- [@freddyamarante](https://github.com/freddyamarante)
+
+---
+
 # v1.0.19 (Sat Apr 15 2023)
 
 #### 🐛 Bug Fix
