@@ -4,6 +4,8 @@ import { useEffect, useGlobals } from "@storybook/preview-api";
 export const withGlobals = (StoryFn, context) => {
   const [globals] = useGlobals();
   const darkMode = globals.darkMode;
+  const className = globals.className || "dark";
+
   const isInDocs = context.viewMode === "docs";
 
   useEffect(() => {
@@ -11,17 +13,19 @@ export const withGlobals = (StoryFn, context) => {
       ? `#anchor--${context.id} .sb-story`
       : "#storybook-root";
 
-    changeBackgroundMode(selector, { darkMode, isInDocs });
+    console.log(globals);
+
+    changeBackgroundMode(selector, { darkMode, isInDocs, className });
   }, [darkMode, isInDocs, context.id]);
 
   return StoryFn();
 };
 
-const changeBackgroundMode = (selector, state) => {
+const changeBackgroundMode = (selector, { darkMode, className }) => {
   const rootElement = document.querySelector(selector);
-  if (state.darkMode) {
-    rootElement.classList.add("dark");
+  if (darkMode) {
+    rootElement.classList.add(className);
   } else {
-    rootElement.classList.remove("dark");
+    rootElement.classList.remove(className);
   }
 };
