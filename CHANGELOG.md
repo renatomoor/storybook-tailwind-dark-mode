@@ -1,3 +1,15 @@
+# v1.0.17 (Sat Apr 15 2023)
+
+#### 🐛 Bug Fix
+
+- Compatibility with storybook 7 [#15](https://github.com/renatomoor/storybook-tailwind-dark-mode/pull/15) ([@freddyamarante](https://github.com/freddyamarante))
+
+#### Authors: 1
+
+- [@freddyamarante](https://github.com/freddyamarante)
+
+---
+
 # v1.0.15 (Wed Apr 05 2023)
 
 #### 🐛 Bug Fix

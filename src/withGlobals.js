@@ -2,7 +2,6 @@
 import { useEffect, useGlobals } from "@storybook/preview-api";
 
 export const withGlobals = (StoryFn, context) => {
-  // const [{ darkMode }] = useGlobals();
   const [globals] = useGlobals();
   const darkMode = globals.darkMode;
   const isInDocs = context.viewMode === "docs";
