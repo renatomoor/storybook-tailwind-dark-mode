@@ -20,7 +20,7 @@ Then, add following content to `.storybook/main.js`
 
 ```js
 module.exports = {
-  addons: ["storybook-tailwind-dark-mode"],
+  addons: ['storybook-tailwind-dark-mode'],
 };
 ```
 
@@ -34,8 +34,9 @@ const preview = {
     darkMode: {
       defaultValue: true, // Enable dark mode by default on all stories
     },
+    // Optional (Default: 'dark')
     className: {
-      defaultValue: "custom-classname", // Set your custom dark mode class name
+      defaultValue: 'custom-classname', // Set your custom dark mode class name
     },
   },
 };
