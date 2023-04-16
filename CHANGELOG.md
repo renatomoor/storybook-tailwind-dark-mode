@@ -1,3 +1,15 @@
+# v1.0.21 (Sun Apr 16 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@renatomoor](https://github.com/renatomoor))
+
+#### Authors: 1
+
+- Renato Moor ([@renatomoor](https://github.com/renatomoor))
+
+---
+
 # v1.0.20 (Sat Apr 15 2023)
 
 #### 🐛 Bug Fix
