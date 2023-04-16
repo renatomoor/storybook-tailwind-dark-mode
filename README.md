@@ -24,6 +24,16 @@ module.exports = {
 };
 ```
 
+### Make sure tailwind is configured to use the darkmode class in the `tailwind.config.js`
+
+```js
+module.exports = {
+  darkMode: 'class',
+  // ...
+} 
+```
+
+
 ### Set Dark Mode as default
 
 To set dark mode as default, Add the following lines of code to your preview.js file
