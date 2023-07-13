@@ -11,7 +11,7 @@ export const withGlobals = (StoryFn, context) => {
   useEffect(() => {
     const selector = isInDocs
       ? `#anchor--${context.id} .sb-story`
-      : "#storybook-root";
+      : "html";
 
     console.log(globals);
 
